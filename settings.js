@@ -1,7 +1,7 @@
 const chalk = require("chalk")
 const fs = require("fs")
 //aumto presence update
-global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.autoblockmorroco = true //auto block 212 (true to on, false to off)
 global.wlcm = true
@@ -9,37 +9,37 @@ global.autokickmorroco = false //auto kick 212 (true to on, false to off)
 global.antispam = false//auto kick spammer (true to on, false to off)
 //===============SETTING MENU==================\\
 global.thumbnail = 'https://cdn.elxyzgpt.xyz/file/UOWn5hI9LG.png'
-global.ig = '@jr_danzz'
-global.yt = 'Danz Nano'
-global.ttowner = '@danznano'
+global.ig = '@irja_official'
+global.yt = 'irja_official'
+global.ttowner = '@irja_official'
 global.ownername = 'IRJA'
 global.owner = ['6282275576880'] // SETTING JUGA DI FOLDER DATABASE 
 global.ownernomer = '6282275576880'
 global.socialm = 'GitHub: -'
 global.location = 'Indonesia' 
 //========================setting Payment=====================\\
-global.nodana = '085892928715' // KOSONG KAN JIKA TIDAK ADA
-global.nogopay = '085892928715' // KOSONG KAN JIKA TIDAK ADA 
-global.noovo = '085892928715' // KOSONG KAN JIKA TIDAK ADA
+global.nodana = '082275576880' // KOSONG KAN JIKA TIDAK ADA
+global.nogopay = '082275576880' // KOSONG KAN JIKA TIDAK ADA 
+global.noovo = '082275576880' // KOSONG KAN JIKA TIDAK ADA
 //==================setting Payment Name===========================\\
-global.andana = 'danzxd' // KOSONG KAN JIKA TIDAK ADA
-global.angopay = 'AHMAD RAMA DANI' // KOSONG KAN JIKA TIDAK ADA
-global.anovo = 'gtw' // KOSONG KAN JIKA TIDAK ADA
+global.andana = 'Irja' // KOSONG KAN JIKA TIDAK ADA
+global.angopay = 'Irja' // KOSONG KAN JIKA TIDAK ADA
+global.anovo = 'Irja' // KOSONG KAN JIKA TIDAK ADA
 //==================setting bot===========================\\
-global.botname = "NanoBotz ID"
+global.botname = "© IRJA"
 global.ownernumber = '6282275576880'
 global.botnumber = '6282275576880'
-global.ownername = 'DanzXnano'
+global.ownername = '© IRJA'
 global.ownerNumber = ["6282275576880@s.whatsapp.net"]
 global.ownerweb = ""
 global.websitex = ""
 global.wagc = "https://chat.whatsapp.com/DdO8j3quJyl2a1xdyGt8OX"
-global.saluran = "https://whatsapp.com/channel/0029Vainc1WHFxP6JCHZJx06"
+global.saluran = "https://instagram.com/@irja_official"
 global.themeemoji = '🪀'
-global.wm = "NanoBotz ID| bot wangsap gg"
+global.wm = "© IRJA|Ig : irja_official"
 global.botscript = 'Dah gede nyari sc 🗿🖕' //script link
-global.packname = "Sticker By"
-global.author = "\n\n\n\n\nCreate by NanoBotz ID\nNo hape/wa : 6282275576880"
+global.packname = "© IRJA"
+global.author = "IG : irja_official"
 global.creator = "6282275576880@s.whatsapp.net"
 //======================== CPANEL FITUR ===========================\\
 global.domain = '-' // Isi Domain Lu jangan kasih tanda / di akhir link
